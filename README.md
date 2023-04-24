@@ -15,7 +15,7 @@ Cela passe par le **responsive, les animations et l'ergonomie**.
 
 Je suis attiré par l'**ingénierie informatique**, ce qui passe donc par l'innovation incluant les **maths, le programme et la créativité**. 💡
 
-Je suis pas le plus ancien d'ici mais **j'inspire à l'apprentissage**, en connaître le plus possible et **étendre mes connaissances** alors si vous passez par là, faites moi signe. 😀 
+Je suis pas le plus ancien d'ici mais **j'aspire à l'apprentissage**, en connaître le plus possible et **étendre mes connaissances** alors si vous passez par là, faites moi signe. 😀 
 
 
 
