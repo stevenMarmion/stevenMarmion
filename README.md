@@ -5,8 +5,9 @@
 Je m'appelle **Steven**, je suis actuellement étudiant de 19 ans et j'étudie en **BUT informatique** 📚 . Je suis passionné et surtout interessé par les **langages de programmation**. 
 Je travaille actuellement le :
   - **Java**, **JavaFx** 
-  - **Python** 
-  - **SQL**, **mySQL** ( Oracle, mariadb ) 
+  - **Python**, **Flask**
+  - **mySQL** ( Oracle, mariadb )
+  - **PL / SQL** 
   - **Bash** 
   - **HTML**, **CSS** 
 
