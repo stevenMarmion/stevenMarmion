@@ -2,15 +2,16 @@
 
 ## Qui suis-je ? 👾
 
-Je m'appelle **Steven**, je suis actuellement étudiant de 19 ans et j'étudie en **BUT informatique** 📚 . Je suis passionné et surtout interessé par les **langages de programmation**. 
+Je m'appelle **Steven**, je suis actuellement étudiant de 20 ans et j'étudie en **BUT informatique** 📚 . Actuellement en alternance dans une entreprise du service bancaise, je suis passionné et surtout interessé par les **langages de programmation**. 
 Je travaille actuellement le :
   - **Java**, **JavaFx**
   - **Vue.js**, **Spring**
+  - **PHP**
   - **Python**, **Flask**, **Pygame**
   - **mySQL** ( Oracle, mariadb )
   - **PL / SQL** 
-  - **Bash** 
-  - **HTML**, **CSS** 
+  - **Bash**
+  - et j'en passe ...
 
 Je développe souvent de mon côté des petites pages WEB en HTML, CSS. De quoi **travailler de nouvelles compétences** ou simplement de perfectionner celles que j'ai déjà. 
 Cela passe par le **responsive, les animations et l'ergonomie**. 
