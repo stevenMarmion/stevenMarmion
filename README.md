@@ -5,6 +5,25 @@
 Je m'appelle **Steven**, je suis étudiant en **BUT informatique** 📚 et j'ai 20 ans. Actuellement en alternance dans une entreprise du service bancaire, comme beaucoup de personnes qui tomberont sur cette page : je suis passionné et surtout interessé par la **programmation**.  
 
 Actuellement, je suis axé sur le développement WEB / application et ce que inclut ce genre de projet avec de la **gestion de projet**, **management**, **testing**, etc... pour avoir les idées un peu plus claire sur les technos que j'ai pu cotoyé et avec lesquelles j'ai pu développé des solutions entières, voici une petite énumération :
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.JS" alt="Vue.JS " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg"  title="Vuetify" alt="Vuetify" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>  
+
+Et pour plus de détail :
   - POO :  
     **Java**, **PHP**, **Python**, **JavaScript / TypeScript**
   - Framework :  
@@ -35,6 +54,13 @@ Actuellement, je suis axé sur le développement WEB / application et ce que inc
     - Et j'en passe...  
 
 Ce profil est par ailleurs non pas une exposition de TOUS mes projets mais simplement un **repo perso** qui me permet de **développer mes compétences**. Vous trouverez néanmoins quelques projets que je trouve sympa et qui peuvent exposer mes compétences en termes de développement architecturales, technos spécifiques, principes vus, etc... 💡
+
+<div align="center">
+  
+![stevenMarmion's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenMarmion&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenMarmion&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 Depuis tout à l'heure, je vous parle de compétences technique mais je me suis aussi introduis en vous parlant de **gestion de projet** et **management**.  
 
