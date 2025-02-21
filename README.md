@@ -2,9 +2,9 @@
 
 ## Qui suis-je ? 👾
 
-Je m'appelle **Steven**, je suis étudiant en **BUT informatique** 📚 et j'ai 20 ans. Actuellement en alternance dans une entreprise du service bancaire, comme beaucoup de personnes qui tomberont sur cette page : je suis passionné et surtout interessé par la **programmation**.  
+Je m'appelle **Steven**, je suis étudiant en **BUT informatique** 📚 et j'ai 21 ans. Actuellement en alternance dans une entreprise du service bancaire, je suis passionné par le **développement logiciel**.  
 
-Actuellement, je suis axé sur le développement WEB / application et ce que inclut ce genre de projet avec de la **gestion de projet**, **management**, **testing**, etc... pour avoir les idées un peu plus claire sur les technos que j'ai pu cotoyé et avec lesquelles j'ai pu développé des solutions entières, voici une petite énumération :
+Le développement applicatif est le domaine qui m'intéresse le plus et pour avoir les idées un peu plus claire sur les technos que j'ai pu cotoyé et avec lesquelles j'ai pu développé des solutions, voici une  énumération :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -27,33 +27,33 @@ Et pour plus de détail :
   - POO :  
     **Java**, **PHP**, **Python**, **JavaScript / TypeScript**
   - Framework :  
-    **JavaFx**, **Pygame**, **Flask**, **Vue.JS**, **Spring / Spring boot**
+    **JavaFx**, **Pygame**, **Flask**, **Vue.JS**, **Spring / Spring boot**, **Symfony**
   - Exemple de librairies de front :  
-    **Bootstrap**, **Vuetify**, ...
+    **Bootstrap**, **Vuetify**, **Flowbite-React**, etc.
   - SGBD :  
-    **Oracle**, **MariaDB**, **MySQL**
+    **MariaDB**, **MySQL**, **PostgreSQL**
   - ORM :  
-    **JDBC**, **JPA**
+    **JDBC**, **JPA**, **Doctrine**
   - Testing :  
     **Selenium / Selenium IDE**, **Cypress**
-  - Et autres technos / environnements intéressant(e)s plus ou moins variées :  
-    **PL / SQL**  
-    **Bash**  
+  - Et autres technos / environnements intéressant(e)s et plus ou moins varié(e)s :  
+    **pl/sql** , **pl/pgsql**  
+    **Script shelling**  
     **Docker**  
     ...
-  - Tout ça, croisé avec les principes fondamentaux des applications d'aujourd'hui :  
-    - Principes de serveur REST  
-    - Builder de projet et automatisation avec MAVEN  
-    - Package manager avec NEXUS  
+  - Tout cela, croisé avec les principes fondamentaux des applications d'aujourd'hui :  
+    - Architectures client-serveur, microservices, SOA, etc.  
+    - Gestion de dépendances avec les packages manager (mvn, pip, npm, pnpm, composer, etc.)  
+    - Gestionnaire de répôt distant avec NEXUS, Docker hub, etc.  
     - Suivi de projet avec GITLAB / GITHUB  
     - Projet en CI / CD  
     - Conteneurisation de services  
-    - Principes architecturales  
-    - Travail en scrum  
+    - Modèle de développement (MVC, MVVM, MVT, etc.)  
+    - Méthodes agiles  
     - Documentation ( **Confluence**, **JIRA** )  
     - Et j'en passe...  
 
-Ce profil est par ailleurs non pas une exposition de TOUS mes projets mais simplement un **repo perso** qui me permet de **développer mes compétences**. Vous trouverez néanmoins quelques projets que je trouve sympa et qui peuvent exposer mes compétences en termes de développement architecturales, technos spécifiques, principes vus, etc... 💡
+Ce profil est, par ailleurs, non pas une exposition de TOUS mes projets mais simplement un **dépôt personel** qui me permet de **développer mes compétences**. Vous trouverez quelques projets que je trouve sympa et qui peuvent exposer mes compétences en termes de développement architecturaux, technologies spécifiques, principes vus, etc. 💡
 
 <div align="center">
   
@@ -62,19 +62,13 @@ Ce profil est par ailleurs non pas une exposition de TOUS mes projets mais simpl
 
 </div>
 
-Depuis tout à l'heure, je vous parle de compétences technique mais je me suis aussi introduis en vous parlant de **gestion de projet** et **management**.  
-
-En effet, j'essaie aussi de développer mes compétences de chef de projet, lead developper avec des compétences de communication, de travail collaboratif avec un cadre de travail AGILE où je peux notament vous parler de frameworks SCRUM. Tout cela me permet de diriger mon travail vers des métiers où je peux établir / gérer et avancer avec une équipe.  
-
-On définit donc par là les métiers de **SCRUM master ( communication ), Chef de projet, PO**. 🧑‍💼
-
 Je suis pas le plus ancien d'ici mais **j'aspire à l'apprentissage**, en connaître le plus possible et **étendre mes connaissances** alors si vous passez par là, faites moi signe. 😀 
 
 
 
 ## Expériences 👨‍💻
 
-En ce qui concerne mes projets, vous pouvez en retrouver certains dans mes projets publique, des pages WEB, des travaux sur de la récupération de données avec des requêtes SQL, un jeu en JAVA, JavaFx, ... **Je vous laisse aller découvrir tout ça**. 🙃
+En ce qui concerne mes projets, vous retrouverez dans mes dépôts publics des applications WEB comprenant toutes les connaissances techniques de base que doit avoir un développeur (gestion de base de données, développement backend, frontend, sécurisation applicative, conteneurisation, automatisation, etc.).  
 
 En ce qui concerne des projets avec compétition, j'ai déjà pu participer aux **OSI ( Olympiades des Sciences de l'Ingénieur )**.
 Mon équipe et moi avions construit un moteur Stirling ( *pour les plus intrigués ou les non connaisseurs 👉 **'https://fr.wikipedia.org/wiki/Moteur_Stirling'*** ). 
